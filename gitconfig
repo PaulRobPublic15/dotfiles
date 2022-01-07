@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mr.paul.roberts@gmail.com
+	name = paul roberts
